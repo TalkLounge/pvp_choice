@@ -11,7 +11,14 @@ CC BY-NC 3.0 | See [LICENSE](https://github.com/TalkLounge/pvp_choice/blob/maste
 ## Credits
 **TalkLounge**  
 E-Mail: talklounge@yahoo.de  
-GitHub: [TalkLounge](https://github.com/TalkLounge/ "Link to TalkLounge's GitHub")
+GitHub: [TalkLounge](https://github.com/TalkLounge/ "Link to TalkLounge's GitHub account")  
+Minetest: [TalkLounge](https://forum.minetest.net/memberlist.php?mode=viewprofile&u=20862 "Link to TalkLounge's Minetest Forum account")
+
+**Other contributors**  
+See: [Other contributors](https://github.com/TalkLounge/pvp_choice/graphs/contributors "Link to other contributors")
+
+## Minetest forum post
+View [exschem](https://forum.minetest.net/viewtopic.php?f=9&t=19651&p=311995 "Link to pvp_choice post in the minetest forum")
 
 **Other contributors**  
 See: [Other contributors](https://github.com/TalkLounge/pvp_choice/graphs/contributors "Link to other contributors")
