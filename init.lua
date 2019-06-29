@@ -1,6 +1,6 @@
 -- mods/pvp_choice/init.lua
 -- =================
--- See README.txt for licensing and other information.
+-- See README.md for licensing and other information.
 
 local function form()
 	return "size[4.7,1.3]" ..
