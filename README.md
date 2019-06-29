@@ -20,6 +20,3 @@ See: [Other contributors](https://github.com/TalkLounge/pvp_choice/graphs/contri
 ## Minetest forum post
 View [exschem](https://forum.minetest.net/viewtopic.php?f=9&t=19651&p=311995 "Link to pvp_choice post in the minetest forum")
 
-**Other contributors**  
-See: [Other contributors](https://github.com/TalkLounge/pvp_choice/graphs/contributors "Link to other contributors")
-
