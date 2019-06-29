@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/1fHSHc7.png)
 # PVP Choice
-Minetest mod adding monthly pvp decision
+[Minetest](https://www.minetest.net/ "Link to minetest.net") mod adding monthly pvp decision
 
 ## Version
 2.0
